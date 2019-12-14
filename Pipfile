@@ -10,6 +10,7 @@ pandas = "*"
 numpy = "*"
 ipykernel = "*"
 matplotlib = "*"
+jinja2 = "*"
 
 [requires]
 python_version = "3.8"
